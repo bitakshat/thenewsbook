@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "logo":"https://qph.cf2.quoracdn.net/main-qimg-2f77f788f5dd67e52133595d1153522b.webp",
+        "institute": "Indian Institute Of Technology",
+        "image": "https://www.iitsystem.ac.in/themes/bfd/assets/image/slider/iit-kharagpur.jpg",
+        "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae, itaque! Sint, laborum.",
+        "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quae corrupti dignissimos consectetur natus illum, sit ducimus sint repellat rem architecto voluptates. Odit impedit harum vitae distinctio delectus natus deleniti laborum et corrupti! Fuga, blanditiis.",
+        "landmark":"Indore"
+    },
+    {
+        "id": 2,
+        "logo":"https://qph.cf2.quoracdn.net/main-qimg-2f77f788f5dd67e52133595d1153522b.webp",
+        "institute": "Indian Institute of Management",
+        "image": "https://images.moneycontrol.com/static-mcnews/2022/08/IIT-Kharagpur.jpg?impolicy=website&width=770&height=431",
+        "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae, itaque! Sint, laborum.",
+        "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quae corrupti dignissimos consectetur natus illum, sit ducimus sint repellat rem architecto voluptates. Odit impedit harum vitae distinctio delectus natus deleniti laborum et corrupti! Fuga, blanditiis.",
+        "landmark":"Indore"
+    },
+    {
+        "id": 3,
+        "logo":"https://qph.cf2.quoracdn.net/main-qimg-2f77f788f5dd67e52133595d1153522b.webp",
+        "institute": "National Institute of Technology",
+        "image": "https://cache.careers360.mobi/media/article_images/2021/11/23/IIT-Delhi-Roorkee-Kharagpur-Bombay-placement-featured-image.jpg",
+        "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae, itaque! Sint, laborum.",
+        "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quae corrupti dignissimos consectetur natus illum, sit ducimus sint repellat rem architecto voluptates. Odit impedit harum vitae distinctio delectus natus deleniti laborum et corrupti! Fuga, blanditiis.",
+        "landmark":"Indore"
+    },
+    {
+        "id": 4,
+        "logo":"https://qph.cf2.quoracdn.net/main-qimg-2f77f788f5dd67e52133595d1153522b.webp",
+        "institute": "National Institute of Technology",
+        "image": "https://cache.careers360.mobi/media/article_images/2021/11/23/IIT-Delhi-Roorkee-Kharagpur-Bombay-placement-featured-image.jpg",
+        "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae, itaque! Sint, laborum.",
+        "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quae corrupti dignissimos consectetur natus illum, sit ducimus sint repellat rem architecto voluptates. Odit impedit harum vitae distinctio delectus natus deleniti laborum et corrupti! Fuga, blanditiis.",
+        "landmark":"Indore"
+    },
+    {
+        "id": 5,
+        "logo":"https://qph.cf2.quoracdn.net/main-qimg-2f77f788f5dd67e52133595d1153522b.webp",
+        "institute": "National Institute of Technology",
+        "image": "https://cache.careers360.mobi/media/article_images/2021/11/23/IIT-Delhi-Roorkee-Kharagpur-Bombay-placement-featured-image.jpg",
+        "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae, itaque! Sint, laborum.",
+        "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quae corrupti dignissimos consectetur natus illum, sit ducimus sint repellat rem architecto voluptates. Odit impedit harum vitae distinctio delectus natus deleniti laborum et corrupti! Fuga, blanditiis.",
+        "landmark":"Indore"
+    },
+    {
+        "id": 6,
+        "logo":"https://qph.cf2.quoracdn.net/main-qimg-2f77f788f5dd67e52133595d1153522b.webp",
+        "institute": "National Institute of Technology",
+        "image": "https://cache.careers360.mobi/media/article_images/2021/11/23/IIT-Delhi-Roorkee-Kharagpur-Bombay-placement-featured-image.jpg",
+        "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae, itaque! Sint, laborum.",
+        "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quae corrupti dignissimos consectetur natus illum, sit ducimus sint repellat rem architecto voluptates. Odit impedit harum vitae distinctio delectus natus deleniti laborum et corrupti! Fuga, blanditiis.",
+        "landmark":"Indore"
+    },
+    {
+        "id": 7,
+        "logo":"https://qph.cf2.quoracdn.net/main-qimg-2f77f788f5dd67e52133595d1153522b.webp",
+        "institute": "National Institute of Technology",
+        "image": "https://cache.careers360.mobi/media/article_images/2021/11/23/IIT-Delhi-Roorkee-Kharagpur-Bombay-placement-featured-image.jpg",
+        "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae, itaque! Sint, laborum.",
+        "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quae corrupti dignissimos consectetur natus illum, sit ducimus sint repellat rem architecto voluptates. Odit impedit harum vitae distinctio delectus natus deleniti laborum et corrupti! Fuga, blanditiis.",
+        "landmark":"Indore"
+    },
+    {
+        "id": 8,
+        "logo":"https://qph.cf2.quoracdn.net/main-qimg-2f77f788f5dd67e52133595d1153522b.webp",
+        "institute": "National Institute of Technology",
+        "image": "https://cache.careers360.mobi/media/article_images/2021/11/23/IIT-Delhi-Roorkee-Kharagpur-Bombay-placement-featured-image.jpg",
+        "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae, itaque! Sint, laborum.",
+        "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quae corrupti dignissimos consectetur natus illum, sit ducimus sint repellat rem architecto voluptates. Odit impedit harum vitae distinctio delectus natus deleniti laborum et corrupti! Fuga, blanditiis.",
+        "landmark":"Indore"
+    }
+]
